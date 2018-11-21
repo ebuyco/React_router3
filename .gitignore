@@ -1,0 +1,13 @@
+package.json
+package-lock.json
+.idea
+run.sh
+/build
+/coverage
+run_s3_enabled.sh
+/node_modules
+.docs/
+settings.json
+.DS_Store
+.vscode
+yarn-error.log
